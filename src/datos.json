@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "latitude": 11.068049,
+    "longitude": -72.761070,
+    "especie": "Palo de rosa",
+    "municipio": "Hato Nuevo",
+    "ciudadano": "Pedro"
+  },
+  {
+    "id": 2,
+    "latitude": 11.068349,
+    "longitude": -72.762070,
+    "especie": "Cedro",
+    "municipio": "El Oasis",
+    "ciudadano": "Juan"
+  },
+  {
+    "id": 3,
+    "latitude": 11.069049,
+    "longitude": -72.763070,
+    "especie": "Roble",
+    "municipio": "La Sierra",
+    "ciudadano": "María"
+  },
+  {
+    "id": 4,
+    "latitude": 11.069349,
+    "longitude": -72.764070,
+    "especie": "Ceiba",
+    "municipio": "El Retiro",
+    "ciudadano": "Jorge"
+  },
+  {
+    "id": 5,
+    "latitude": 11.069649,
+    "longitude": -72.765070,
+    "especie": "Guayacán",
+    "municipio": "La Esperanza",
+    "ciudadano": "Carla"
+  },
+  {
+    "id": 6,
+    "latitude": 11.070049,
+    "longitude": -72.766070,
+    "especie": "Níspero",
+    "municipio": "El Paraíso",
+    "ciudadano": "Luis"
+  }
+]

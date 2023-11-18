@@ -1,0 +1,16 @@
+
+/* footer.css */
+.social-links {
+    margin-top: 10px;
+  }
+  
+  .social-links a {
+    margin-right: 10px;
+    color: var(--black);
+    text-decoration: none;
+    font-size: var(--md);
+  }
+  
+  .social-links a:hover {
+    color: var(--hospital-green);
+  }
